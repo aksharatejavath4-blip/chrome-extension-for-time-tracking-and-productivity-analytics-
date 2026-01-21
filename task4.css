@@ -1,0 +1,5 @@
+body { width: 320px; font-family: 'Segoe UI', sans-serif; background: #fdfdfd; padding: 10px; }
+h2 { color: #ff5722; border-bottom: 2px solid #eee; padding-bottom: 5px; }
+.site-row { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+.time { font-weight: bold; color: #333; }
+button { width: 100%; margin-top: 15px; background: #333; color: white; border: none; padding: 8px; cursor: pointer; border-radius: 4px; }
