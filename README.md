@@ -1,1 +1,13 @@
 # chrome-extension-for-time-tracking-and-productivity-analytics-
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: TEJAVATH AKSHARA
+
+*INTERN ID*: CTSI0548
+
+*DOMAIN*:FULL STACK WEB DEVELOPMENT
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
